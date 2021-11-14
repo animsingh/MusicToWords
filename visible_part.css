@@ -1,0 +1,63 @@
+#form{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    bottom: 30px;
+}
+
+#page_name{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color:aliceblue;
+}
+
+#search_result{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+
+}
+
+#visible_part{
+    background-color: grey;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    
+}
+
+#btn{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 30px;
+    width: 75px;
+    height: 30px;
+}
+#search{
+    width: 500px;
+    height: 30px;
+    border-radius: 30px;
+    color:aliceblue;
+    background-color:black;
+}
+.btn{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 30px;
+}
+#lyrics{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(53, 42, 42);
+    color:aliceblue;
+    padding: 20px;
+    
+}
+#artist_song{
+    display:flex ;
+    justify-content: center;
+}
+
+
+    
